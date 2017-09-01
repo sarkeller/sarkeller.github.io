@@ -9,33 +9,31 @@ body {
 h3 a {
     color: #1E2E33;
 }
-
-
-p {
-    font-family: "Roboto",Verdana, serif;
-}
-
 h1 {
     font-family: "Roboto", Verdana, serif;
 }
-h2 {
-    font-family: "Roboto", Verdana, serif;
-}
-h3 {
-    font-family: "Roboto", Verdana, serif;
-}
-
 h1 {
     font-size: 40px;
 }
 
 h2 {
+    font-family: "Roboto", Verdana, serif;
+}
+h2 {
     font-size: 30px;
 }
-
+h3 {
+    font-family: "Roboto", Verdana, serif;
+}
 h3 {
     font-size: 20px;
 }
 p {
+    font-family: "Roboto",Verdana, serif;
+}
+p {
     font-size: 14px;
+}
+ul {
+    font-family: "Roboto", Verdana, serif;
 }
