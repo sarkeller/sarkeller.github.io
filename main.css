@@ -1,7 +1,7 @@
 body {
     padding-left: 30px;
     padding-right: 30px;
-    padding-top: 30px;
+    padding-top: 60px;
     padding-bottom: 30px;
 }
 
@@ -13,6 +13,16 @@ h3 a {
 
 p {
     font-family: "Roboto",Verdana, serif;
+}
+
+h1 {
+    font-family: "Roboto", Verdana, serif;
+}
+h2 {
+    font-family: "Roboto", Verdana, serif;
+}
+h3 {
+    font-family: "Roboto", Verdana, serif;
 }
 
 h1 {
